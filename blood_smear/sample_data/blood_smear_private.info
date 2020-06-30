@@ -1,0 +1,4 @@
+title = 'Blood Smear dataset'
+keywords = 'classification,binary'
+resource_url = 'https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria'
+description = ''
